@@ -1,0 +1,481 @@
+{
+  "Masajes - Massage": {
+    "tipos": [
+      {
+        "nombre": "Masaje terapéutico",
+        "descripcion": "Descripcion de prueba",
+        "tiempo": [
+          {
+            "duracion": 30,
+            "costo": 10
+          },
+          {
+            "duracion": 45,
+            "costo": 10
+          },
+          {
+            "duracion": 60,
+            "costo": 10
+          }
+        ]
+      },
+      {
+        "nombre": "Masaje osteopático",
+        "descripcion": "Descripcion de prueba",
+        "tiempo": [
+          {
+            "duracion": 30,
+            "costo": 10
+          },
+          {
+            "duracion": 45,
+            "costo": 10
+          },
+          {
+            "duracion": 60,
+            "costo": 10
+          }
+        ]
+      },
+      {
+        "nombre": "Masaje piernas cansadas",
+        "descripcion": "Descripcion de prueba",
+        "tiempo": [
+          {
+            "duracion": 30,
+            "costo": 10
+          },
+          {
+            "duracion": 45,
+            "costo": 10
+          },
+          {
+            "duracion": 60,
+            "costo": 10
+          }
+        ]
+      },
+      {
+        "nombre": "Masaje deportivo",
+        "descripcion": "Descripcion de prueba",
+        "tiempo": [
+          {
+            "duracion": 30,
+            "costo": 10
+          },
+          {
+            "duracion": 45,
+            "costo": 10
+          },
+          {
+            "duracion": 60,
+            "costo": 10
+          }
+        ]
+      },
+      {
+        "nombre": "Masajes relax",
+        "descripcion": "Descripcion de prueba",
+        "tiempo": [
+          {
+            "duracion": 30,
+            "costo": 10
+          },
+          {
+            "duracion": 45,
+            "costo": 10
+          },
+          {
+            "duracion": 60,
+            "costo": 10
+          }
+        ]
+      },
+      {
+        "nombre": "Masaje reductor y anti celulitis",
+        "descripcion": "Descripcion de prueba",
+        "tiempo": [
+          {
+            "duracion": 30,
+            "costo": 10
+          },
+          {
+            "duracion": 45,
+            "costo": 10
+          },
+          {
+            "duracion": 60,
+            "costo": 10
+          }
+        ]
+      },
+      {
+        "nombre": "Masaje sensitivo",
+        "descripcion": "Descripcion de prueba",
+        "tiempo": [
+          {
+            "duracion": 30,
+            "costo": 10
+          },
+          {
+            "duracion": 45,
+            "costo": 10
+          },
+          {
+            "duracion": 60,
+            "costo": 10
+          }
+        ]
+      },
+      {
+        "nombre": "Masaje energetico",
+        "descripcion": "Descripcion de prueba",
+        "tiempo": [
+          {
+            "duracion": 30,
+            "costo": 10
+          },
+          {
+            "duracion": 45,
+            "costo": 10
+          },
+          {
+            "duracion": 60,
+            "costo": 10
+          }
+        ]
+      },
+      {
+        "nombre": "Masaje californiano",
+        "descripcion": "Descripcion de prueba",
+        "tiempo": [
+          {
+            "duracion": 30,
+            "costo": 10
+          },
+          {
+            "duracion": 45,
+            "costo": 10
+          },
+          {
+            "duracion": 60,
+            "costo": 10
+          }
+        ]
+      },
+      {
+        "nombre": "Masaje lomi lomi",
+        "descripcion": "Descripcion de prueba",
+        "tiempo": [
+          {
+            "duracion": 30,
+            "costo": 10
+          },
+          {
+            "duracion": 45,
+            "costo": 10
+          },
+          {
+            "duracion": 60,
+            "costo": 10
+          }
+        ]
+      },
+      {
+        "nombre": "Masaje hindu",
+        "descripcion": "Descripcion de prueba",
+        "tiempo": [
+          {
+            "duracion": 30,
+            "costo": 10
+          },
+          {
+            "duracion": 45,
+            "costo": 10
+          },
+          {
+            "duracion": 60,
+            "costo": 10
+          }
+        ]
+      },
+      {
+        "nombre": "Masaje facial kobido",
+        "descripcion": "Descripcion de prueba",
+        "tiempo": [
+          {
+            "duracion": 30,
+            "costo": 10
+          },
+          {
+            "duracion": 45,
+            "costo": 10
+          },
+          {
+            "duracion": 60,
+            "costo": 10
+          }
+        ]
+      },
+      {
+        "nombre": "Geoterapia termal",
+        "descripcion": "Descripcion de prueba",
+        "tiempo": [
+          {
+            "duracion": 30,
+            "costo": 10
+          },
+          {
+            "duracion": 45,
+            "costo": 10
+          },
+          {
+            "duracion": 60,
+            "costo": 10
+          }
+        ]
+      },
+      {
+        "nombre": "Maderoterapia",
+        "descripcion": "Descripcion de prueba",
+        "tiempo": [
+          {
+            "duracion": 30,
+            "costo": 10
+          },
+          {
+            "duracion": 45,
+            "costo": 10
+          },
+          {
+            "duracion": 60,
+            "costo": 10
+          }
+        ]
+      },
+      {
+        "nombre": "Bambuterapia",
+        "descripcion": "Descripcion de prueba",
+        "tiempo": [
+          {
+            "duracion": 30,
+            "costo": 10
+          },
+          {
+            "duracion": 45,
+            "costo": 10
+          },
+          {
+            "duracion": 60,
+            "costo": 10
+          }
+        ]
+      },
+      {
+        "nombre": "Reflexologia podal",
+        "descripcion": "Descripcion de prueba",
+        "tiempo": [
+          {
+            "duracion": 30,
+            "costo": 10
+          },
+          {
+            "duracion": 45,
+            "costo": 10
+          },
+          {
+            "duracion": 60,
+            "costo": 10
+          }
+        ]
+      },
+      {
+        "nombre": "Linfoterapia (drenaje linfatico)",
+        "descripcion": "Descripcion de prueba",
+        "tiempo": [
+          {
+            "duracion": 30,
+            "costo": 10
+          },
+          {
+            "duracion": 45,
+            "costo": 10
+          },
+          {
+            "duracion": 60,
+            "costo": 10
+          }
+        ]
+      },
+      {
+        "nombre": "Kinesiotaping (bandas neuromusculares)",
+        "descripcion": "Descripcion de prueba",
+        "tiempo": [
+          {
+            "duracion": 30,
+            "costo": 10
+          },
+          {
+            "duracion": 45,
+            "costo": 10
+          },
+          {
+            "duracion": 60,
+            "costo": 10
+          }
+        ]
+      }
+    ],
+    "imagen": "https://service24.app/alinstanteAPI/public/masaje.json"
+  },
+  "Manicura y pedicura - Manicure and Pedicure": {
+    "tipos": [
+      {
+        "nombre": "Manicura clásica - classic manicure",
+        "descripcion": "Descripcion de prueba",
+        "costo": 10
+      },
+      {
+        "nombre": "Cambio de esmalte  change of polish",
+        "descripcion": "Descripcion de prueba",
+        "costo": 10
+      },
+      {
+        "nombre": "Manicura con semi permanente - with shellac",
+        "descripcion": "Descripcion de prueba",
+        "costo": 10
+      },
+      {
+        "nombre": "Cambio de esmalte o shallac",
+        "descripcion": "Descripcion de prueba",
+        "costo": 10
+      },
+      {
+        "nombre": "Uñas en gel o acrílico  - Gel or Acrilic nails",
+        "descripcion": "Descripcion de prueba",
+        "costo": 10
+      },
+      {
+        "nombre": "Relleno - infiel",
+        "descripcion": "Descripcion de prueba",
+        "costo": 10
+      },
+      {
+        "nombre": "Spa de manicura: manicura con exfoliación y cambio de esmalte semi permanente",
+        "descripcion": "Descripcion de prueba",
+        "costo": 10
+      },
+      {
+        "nombre": "Spa manicure : manicure with piling and polish or gelpolish",
+        "descripcion": "Descripcion de prueba",
+        "costo": 10
+      },
+      {
+        "nombre": "Pedicura clasica - Clasic pedicure",
+        "descripcion": "Descripcion de prueba",
+        "costo": 10
+      },
+      {
+        "nombre": "Pedicure with gelpolish",
+        "descripcion": "Descripcion de prueba",
+        "costo": 10
+      },
+      {
+        "nombre": "Spa pedicura con exfoliación y masajes de pies, esmalte semi permanente",
+        "descripcion": "Descripcion de prueba",
+        "costo": 10
+      },
+      {
+        "nombre": "Spa pedicure with exfoliation , massage and gelpolish",
+        "descripcion": "Descripcion de prueba",
+        "costo": 10
+      }
+    ],
+    "imagen": "https://service24.app/alinstanteAPI/public/masaje.json"
+  },
+  "Cosmetologia": {
+    "tipos": [
+      {
+        "nombre": "Pedicure with gelpolish",
+        "descripcion": "Descripcion de prueba",
+        "costo": 10
+      },
+      {
+        "nombre": "Pedicure with gelpolish",
+        "descripcion": "Descripcion de prueba",
+        "costo": 10
+      },
+      {
+        "nombre": "Pedicure with gelpolish",
+        "descripcion": "Descripcion de prueba",
+        "costo": 10
+      },
+      {
+        "nombre": "Pedicure with gelpolish",
+        "descripcion": "Descripcion de prueba",
+        "costo": 10
+      }
+    ],
+    "imagen": "https://service24.app/alinstanteAPI/public/masaje.json"
+  },
+  "Extensiones  de pestañas - Eyelashes": {
+    "tipos": [
+      {
+        "nombre": "Pelo a pelo - 1 by 1",
+        "descripcion": "Descripcion de prueba",
+        "costo": 10
+      },
+      {
+        "nombre": "Volumen ruso - Russian volume",
+        "descripcion": "Descripcion de prueba",
+        "costo": 10
+      },
+      {
+        "nombre": "Eyelashes one by one",
+        "descripcion": "Descripcion de prueba",
+        "costo": 10
+      },
+      {
+        "nombre": "Relleno / infiel",
+        "descripcion": "Descripcion de prueba",
+        "costo": 10
+      }
+    ],
+    "imagen": "https://service24.app/alinstanteAPI/public/masaje.json"
+  },
+  "Peeling": {
+    "tipos": [
+      {
+        "nombre": "Peeling cosmetologico",
+        "descripcion": "Descripcion de prueba",
+        "costo": 10
+      },
+      {
+        "nombre": "Peeling ácido",
+        "descripcion": "Descripcion de prueba",
+        "costo": 10
+      },
+      {
+        "nombre": "Peeling mecánico",
+        "descripcion": "Descripcion de prueba",
+        "costo": 10
+      }
+    ],
+    "imagen": "https://service24.app/alinstanteAPI/public/masaje.json"
+  },
+  "Podología": {
+    "tipos": [
+      {
+        "nombre": "Podología profunda con extracción y exfoliación",
+        "descripcion": "Descripcion de prueba",
+        "costo": 10
+      },
+      {
+        "nombre": "curativa  chiropatist pedicure",
+        "descripcion": "Descripcion de prueba",
+        "costo": 10
+      }
+    ],
+    "imagen": "https://service24.app/alinstanteAPI/public/masaje.json"
+  }
+}
